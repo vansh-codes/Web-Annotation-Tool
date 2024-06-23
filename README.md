@@ -1,6 +1,6 @@
 # Web Annotation Tool
 
-![Web-Annotation-Tool](https://socialify.git.ci/vansh-codes/Web-Annotation-Tool/image?description=1&font=Bitter&name=1&owner=1&pattern=Floating%20Cogs&theme=Dark)
+![Web-Annotation-Tool](https://socialify.git.ci/vansh-codes/Web-Annotation-Tool/image?description=1&descriptionEditable=Web%20Annotation%20Tool%3A%20Browser%20extension%20for%20annotating%20webpages%20with%20drawing%20tools.%20Customize%20annotations%20and%20save%20screenshots%20effortlessly.&font=Bitter&name=1&owner=1&pattern=Floating%20Cogs&theme=Dark)
 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
