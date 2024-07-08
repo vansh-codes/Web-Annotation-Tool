@@ -6,7 +6,6 @@
 <div align="center">
 <img src="https://forthebadge.com/images/badges/built-with-love.svg" height=40px/> <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fvansh-codes%2FWeb-Annotation-Tool&label=visitors&countColor=%2337d67a&style=for-the-badge&labelStyle=upper" height=40px /> <img src="https://img.shields.io/github/last-commit/vansh-codes/Web-Annotation-Tool?style=for-the-badge" height=40px />
 <img src="https://img.shields.io/github/repo-size/vansh-codes/Web-Annotation-Tool?style=for-the-badge" height=40px> <br/>
-<img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" height=30px /> <img src="https://vercelbadge.vercel.app/api/vansh-codes/Web-Annotation-Tool?style=for-the-badge" height=30px />
 
 </div>
 
