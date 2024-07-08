@@ -21,7 +21,7 @@ chrome.contextMenus.onClicked.addListener((info, tab) => {
     if (info.menuItemId === "startAnnotation") {
         chrome.scripting.executeScript({
             target: { tabId: tab.id },
-            files: ['annotation.js']
+            files: ['annotation.min.js']
         }, () => {
             chrome.tabs.sendMessage(tab.id, { action: "toggleSidebar" });
         });

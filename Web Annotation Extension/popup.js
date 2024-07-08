@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", function(){
             if ((tab.url.startsWith('http://') || tab.url.startsWith('https://')) && (tab && tab.id)) {
                 chrome.scripting.executeScript({
                     target: { tabId: tab.id },
-                    files: ['annotation.js']
+                    files: ['annotation.min.js']
                 }).then(() => {
                     console.log("Annotation script executed.");
                     chrome.tabs.sendMessage(tab.id, {action: "toggleSidebar"});

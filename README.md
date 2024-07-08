@@ -3,9 +3,12 @@
 ![Web-Annotation-Tool](https://socialify.git.ci/vansh-codes/Web-Annotation-Tool/image?description=1&descriptionEditable=Web%20Annotation%20Tool%3A%20Browser%20extension%20for%20annotating%20webpages%20with%20drawing%20tools.%20Customize%20annotations%20and%20save%20screenshots%20effortlessly.&font=Bitter&name=1&owner=1&pattern=Floating%20Cogs&theme=Dark)
 
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
+<div align="center">
+<img src="https://forthebadge.com/images/badges/built-with-love.svg" height=40px/> <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fvansh-codes%2FWeb-Annotation-Tool&label=visitors&countColor=%2337d67a&style=for-the-badge&labelStyle=upper" height=40px /> <img src="https://img.shields.io/github/last-commit/vansh-codes/Web-Annotation-Tool?style=for-the-badge" height=40px />
+<img src="https://img.shields.io/github/repo-size/vansh-codes/Web-Annotation-Tool?style=for-the-badge" height=40px> <br/>
+<img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" height=30px /> <img src="https://vercelbadge.vercel.app/api/vansh-codes/Web-Annotation-Tool?style=for-the-badge" height=30px />
+
+</div>
 
 
 ## Installation
